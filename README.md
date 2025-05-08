@@ -2,6 +2,10 @@
 
 A web application that procedurally generates and visualizes random mazes with customizable parameters. Users can create perfect mazes (with exactly one path between any two points) or add multiple solution paths by adjusting the edge density.
 
+## Live Demo
+
+**[Try the Maze Generator online](https://jakeolo.github.io/maze-generator/)**
+
 ## Features
 
 - Generate mazes of customizable width and height
